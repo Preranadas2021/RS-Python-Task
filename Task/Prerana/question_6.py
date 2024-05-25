@@ -1,6 +1,4 @@
-#QUESTION6
-# Function check whether a number
-# is prime or not
+#QUESTION_6
 def is_prime(n):
     if n > 1:
         for i in range(2, (n//2)+1):
